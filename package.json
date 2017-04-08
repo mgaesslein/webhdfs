@@ -13,10 +13,10 @@
     "fs",
     "storage"
   ],
-  "author": "Harri Siirak <harri.siirak@gmail.com>",
+  "author": "me",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harrisiirak/webhdfs.git"
+    "url": "https://github.com/cr33p/webhdfs.git"
   },
   "license": "MIT",
   "devDependencies": {
